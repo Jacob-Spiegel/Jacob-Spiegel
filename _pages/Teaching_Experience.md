@@ -5,9 +5,9 @@ title: "Teaching"
 
 <img src="https://jacob-spiegel.github.io/Jacob-Spiegel/assets/Papers/images/Jacob_professional.png">
 
-# Teaching Experience
+# TESTING
 
-<img src="https://jacob-spiegel.github.io/Jacob-Spiegel/assets/Papers/images/Jacob_professional.png" style="height: 100px; width:100px;"/>
+<img src="https://jacob-spiegel.github.io/Jacob-Spiegel/assets/Papers/images/logo.png" style="height: 100px; width:100px;"/>
 
 
 # Teaching Experience
