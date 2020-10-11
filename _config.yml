@@ -273,6 +273,3 @@ defaults:
       comments: # true
       share: true
       related: true
-=======
-theme: jekyll-theme-slate
->>>>>>> f1546e9d32c95f63fef13f55448bea4bb85d074c
