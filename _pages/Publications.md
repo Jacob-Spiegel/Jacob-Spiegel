@@ -15,7 +15,7 @@ title: "Publications"
     <a id="raw-url" href="https://jacob-spiegel.github.io/Jacob-Spiegel/assets/Papers/AutoGrow4_2020.pdf">Download PDF</a>
 
 ## Ph.D. Dissertation
-- **Spiegel, J.O.**, (2020) Targeting the Poly (ADP-Ribose) Polymerase-1 Catalytic Pocket Using AutoGrow4, a Genetic Algorithm for De Novo Design. Doctoral Dissertation, University of Pittsburgh. <URL http://d-scholarship.pitt.edu/39666/>
+- **Spiegel, J.O.**, (2020) Targeting the Poly (ADP-Ribose) Polymerase-1 Catalytic Pocket Using AutoGrow4, a Genetic Algorithm for De Novo Design. Doctoral Dissertation, University of Pittsburgh. <http://d-scholarship.pitt.edu/39666/>
     <a id="raw-url" href="/home/jacob/Documents/WEB/Jacob-Spiegel.github.io/assets/Papers/Jacob_Spiegel_Thesis.pdf">Download PDF</a>
 
 ## Articles in Preparation
