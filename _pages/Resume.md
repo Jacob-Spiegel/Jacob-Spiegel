@@ -7,7 +7,7 @@ toc_label: "Resume"
 ---
 
 ## Resume
-hello
+hello 
 
 ## Resume
 
@@ -19,13 +19,16 @@ hello
 
 
 ## Test1
-<embed src="https://jacob-spiegel.github.io/Jacob-Spiegel/assets/Resume_CV/Jacob_Spiegel_Resume.pdf#view=Fit>
+<embed src="https://jacob-spiegel.github.io/Jacob-Spiegel/assets/Resume_CV/Jacob_Spiegel_Resume.pdf#view=Fit">
+
+## Test1B
+<embed src="https://jacob-spiegel.github.io/Jacob-Spiegel/assets/Resume_CV/Jacob_Spiegel_Resume.pdf#view=Fit" width="100%">
 
 ## Test2
-<embed src="https://jacob-spiegel.github.io/Jacob-Spiegel/assets/Resume_CV/Jacob_Spiegel_Resume.pdf#view=FitH>
+<embed src="https://jacob-spiegel.github.io/Jacob-Spiegel/assets/Resume_CV/Jacob_Spiegel_Resume.pdf#view=FitH">
 
 ## Test3
-<embed src="https://jacob-spiegel.github.io/Jacob-Spiegel/assets/Resume_CV/Jacob_Spiegel_Resume.pdf#view=FitBH>
+<embed src="https://jacob-spiegel.github.io/Jacob-Spiegel/assets/Resume_CV/Jacob_Spiegel_Resume.pdf#view=FitBH">
 
 <!-- ## Test
 ![Model View Controller][https://jacob-spiegel.github.io/Jacob-Spiegel/assets/Resume_CV/Jacob_Spiegel_Resume.pdf]
