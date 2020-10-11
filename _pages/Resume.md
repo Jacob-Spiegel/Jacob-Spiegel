@@ -17,7 +17,7 @@ hello
 ## Test
 ![Model View Controller][https://jacob-spiegel.github.io/Jacob-Spiegel/assets/Resume_CV/Jacob_Spiegel_Resume.pdf]
 ## Test2
-![Model View Controller](https://jacob-spiegel.github.io/Jacob-Spiegel/assets/Resume_CV/Jacob_Spiegel_Resume.pdf)
+[Model View Controller][https://jacob-spiegel.github.io/Jacob-Spiegel/assets/Resume_CV/Jacob_Spiegel_Resume.pdf]
 ## Test4
 ![embed](https://jacob-spiegel.github.io/Jacob-Spiegel/assets/Resume_CV/Jacob_Spiegel_Resume.pdf)
 
