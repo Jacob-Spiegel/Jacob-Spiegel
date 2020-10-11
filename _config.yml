@@ -23,7 +23,7 @@ name                     : Jacob O. Spiegel, Ph.D.
 description              : Jacob O. Spiegel, Ph.D. personal webpage
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : Jacob-Spiegel/Jacob-Spiegel
+repository               : Jacob-Spiegel/Jacob-Spiegel.github.io
 teaser                   : /assets/images/logo.png
 logo                     : /assets/images/logo.png
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Jacob O. Spiegel, Ph.D."
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Insert BIOGRAPHY HERE."
   location         : "Pittsburgh, PA"
   email            :
   links:
