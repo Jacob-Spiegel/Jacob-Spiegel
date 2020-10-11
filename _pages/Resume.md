@@ -15,28 +15,23 @@ hello
 
 
 ## Test
-<embed src="https://jacob-spiegel.github.io/Jacob-Spiegel/assets/Resume_CV/Jacob_Spiegel_Resume.pdf?zoom=50" width="575" height="500">
+<embed src="https://jacob-spiegel.github.io/Jacob-Spiegel/assets/Resume_CV/Jacob_Spiegel_Resume.pdf?zoom=50" width="1000" height="1000">
 
 
 ## Test1
-<embed src="https://jacob-spiegel.github.io/Jacob-Spiegel/assets/Resume_CV/Jacob_Spiegel_Resume.pdf#view=Fit">
-
-## Test1B
-<embed src="https://jacob-spiegel.github.io/Jacob-Spiegel/assets/Resume_CV/Jacob_Spiegel_Resume.pdf#view=Fit" width="100%">
+<embed src="https://jacob-spiegel.github.io/Jacob-Spiegel/assets/Resume_CV/Jacob_Spiegel_Resume.pdf?zoom=50" width="1000" height="1000">
 
 ## Test2
-<embed src="https://jacob-spiegel.github.io/Jacob-Spiegel/assets/Resume_CV/Jacob_Spiegel_Resume.pdf#view=FitH">
+<embed src="https://jacob-spiegel.github.io/Jacob-Spiegel/assets/Resume_CV/Jacob_Spiegel_Resume.pdf?zoom=100" width="1000" height="1000">
 
 ## Test3
-<embed src="https://jacob-spiegel.github.io/Jacob-Spiegel/assets/Resume_CV/Jacob_Spiegel_Resume.pdf#view=FitBH">
+<embed src="https://jacob-spiegel.github.io/Jacob-Spiegel/assets/Resume_CV/Jacob_Spiegel_Resume.pdf?zoom=50" width="5000" height="5000">
 
-<!-- ## Test
-![Model View Controller][https://jacob-spiegel.github.io/Jacob-Spiegel/assets/Resume_CV/Jacob_Spiegel_Resume.pdf]
-## Test2
-[Model View Controller][https://jacob-spiegel.github.io/Jacob-Spiegel/assets/Resume_CV/Jacob_Spiegel_Resume.pdf]
 ## Test4
-![embed](https://jacob-spiegel.github.io/Jacob-Spiegel/assets/Resume_CV/Jacob_Spiegel_Resume.pdf)
- -->
+<embed src="https://jacob-spiegel.github.io/Jacob-Spiegel/assets/Resume_CV/Jacob_Spiegel_Resume.pdf?zoom=100" width="5000" height="5000">
+
+## Test5
+<embed src="https://jacob-spiegel.github.io/Jacob-Spiegel/assets/Resume_CV/Jacob_Spiegel_Resume.pdf#view=Fit" width="1000" height="1000">
 
 ## CV
 
