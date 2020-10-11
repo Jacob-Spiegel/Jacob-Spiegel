@@ -1,9 +1,9 @@
 ---
-permalink: /resume/
+permalink: /Resume/
 title: "Resume/CV"
 toc: true
 toc_sticky: true
-toc_label: "resume"
+toc_label: "Resume"
 ---
 
 ## Resume
