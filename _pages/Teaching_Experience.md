@@ -5,8 +5,7 @@ header:
   image: /assets/images/Jacob_professional.jpg
 ---
 
-![Image of NA](./assets/images/Jacob_professional.png)
-
+![Image of NA](https://jacob-spiegel.github.io/Jacob-Spiegel/assets/Papers/images/Jacob_professional.png)
 # Jacob O. Spiegel, Ph.D.
 
 ## Overview
