@@ -4,6 +4,7 @@ title: "About me"
 header:
   image: /assets/images/logo.png
 ---
+
 Jacob O. Spiegel, Ph.D.
 
 I am seeking to transition from academia to industry. I am self-motivated and a fast learner, and I love working on team-based collaborations.

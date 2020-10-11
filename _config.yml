@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -30,7 +29,7 @@ name                     : Jacob O. Spiegel, Ph.D.
 description              : Jacob O. Spiegel, Ph.D. personal webpage
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : Jacob-Spiegel/Jacob-Spiegel.github.io
+repository               : Jacob-Spiegel/Jacob-Spiegel
 teaser                   : /assets/images/logo.png
 logo                     : /assets/images/logo.png
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
