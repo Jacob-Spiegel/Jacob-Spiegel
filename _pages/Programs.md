@@ -15,5 +15,5 @@ toc_label: "Programs"
 ## Cheminformatic Programs
 
 - **Gypsum-DL**: Gypsum-DL is a free, open-source program that converts 1D and 2D small-molecule representations (SMILES strings or flat SDF files) into 3D models. It outputs models with alternate ionization, tautomeric, chiral, cis/trans isomeric, and ring-conformational states.<br />
-    &nbsp;&nbsp;&nbsp;&nbsp;ocumentation, Forum, & Download: <https://durrantlab.pitt.edu/gypsum-dl/><br />
+    &nbsp;&nbsp;&nbsp;&nbsp;Documentation, Forum, & Download: <https://durrantlab.pitt.edu/gypsum-dl/><br />
     &nbsp;&nbsp;&nbsp;&nbsp;Git Repository: <https://git.durrantlab.pitt.edu/jdurrant/gypsum_dl.git>
