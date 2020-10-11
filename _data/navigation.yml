@@ -9,10 +9,10 @@ main:
   - title: "Publications"
     url: /Publications/
     description: All my publications are here
-  - title: "Resume/CV"
+  - title: "CV"
     url: /Resume/
     description: My credentials
-  - title: "Teaching Experience"
+  - title: "Teaching"
     url: /TeachingExperience/
     description: My Teaching Experience
     
