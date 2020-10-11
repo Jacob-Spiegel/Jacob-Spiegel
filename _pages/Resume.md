@@ -10,6 +10,9 @@ toc_label: "Resume"
 
 <embed src="https://jacob-spiegel.github.io/Jacob-Spiegel/assets/Resume_CV/Jacob_Spiegel_Resume.pdf" type="application/pdf" width="100%" height="1000%" >
 
+## Test
+![Model View Controller]([images/figures/mvc_schematic.pdf](https://jacob-spiegel.github.io/Jacob-Spiegel/assets/Resume_CV/Jacob_Spiegel_Resume.pdf))
+
 ## CV
 
 <embed src="https://jacob-spiegel.github.io/Jacob-Spiegel/assets/Resume_CV/Jacob_Spiegel_CV.pdf" type="application/pdf" width="100%" height="100%" >
