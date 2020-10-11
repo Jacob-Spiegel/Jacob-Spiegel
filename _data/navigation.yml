@@ -9,15 +9,10 @@ main:
   - title: "Publications"
     url: /Publications/
     description: All my publications are here
-  # - title: "Teaching Experience"
-  #   url: /TeachingExperience/
-  #   description: My Teaching Experience
-  #     
-  # 
-  # 
   - title: "Teaching Experience"
-  subfolderitems:
-    - page: "Overview and Teaching Philosophy"
-      url: /TeachingExperience/Overview/
-    - page: "Certifications and Training"
-      url: /TeachingExperience/Certifications/
+    url: /TeachingExperience/
+    description: My Teaching Experience
+  - title: "Resume/CV"
+    url: /Resume/
+    description: My credentials
+    
