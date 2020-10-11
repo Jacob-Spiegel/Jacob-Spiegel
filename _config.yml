@@ -107,7 +107,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:jspiegel@pitt.edu"
+      url: "mailto:jspiegel@pitt.edu"
    # - label: "Website"
    #   icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
