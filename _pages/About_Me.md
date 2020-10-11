@@ -3,7 +3,6 @@ permalink: /About_Me/
 title: "About me"
 ---
 
-![Image](https://jacob-spiegel.github.io/Jacob-Spiegel/assets/Papers/images/Jacob_professional.png?raw=true "Image")
 
 ## About Me
 
