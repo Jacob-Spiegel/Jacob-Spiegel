@@ -3,7 +3,8 @@ permalink: /TeachingExperience/
 title: "Teaching"
 ---
 
-![Image of NA](https://jacob-spiegel.github.io/Jacob-Spiegel/assets/Papers/images/Jacob_professional.png)
+![Image](https://jacob-spiegel.github.io/Jacob-Spiegel/assets/Papers/images/Jacob_professional.png?raw=true "Image")
+
 # Teaching Experience
 
 ## Overview

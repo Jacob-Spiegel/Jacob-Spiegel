@@ -1,11 +1,11 @@
 ---
 permalink: /About_Me/
 title: "About me"
-header:
-  image: /assets/images/logo.png
 ---
 
-Jacob O. Spiegel, Ph.D.
+![Image](https://jacob-spiegel.github.io/Jacob-Spiegel/assets/Papers/images/Jacob_professional.png?raw=true "Image")
+
+## About Me
 
 I am seeking to transition from academia to industry. I am self-motivated and a fast learner, and I love working on team-based collaborations.
 
