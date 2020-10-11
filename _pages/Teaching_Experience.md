@@ -1,12 +1,10 @@
 ---
 permalink: /TeachingExperience/
-title: "Teaching Experience"
-header:
-  image: /assets/images/Jacob_professional.jpg
+title: "Teaching"
 ---
 
 ![Image of NA](https://jacob-spiegel.github.io/Jacob-Spiegel/assets/Papers/images/Jacob_professional.png)
-# Jacob O. Spiegel, Ph.D.
+# Teaching Experience
 
 ## Overview
 
