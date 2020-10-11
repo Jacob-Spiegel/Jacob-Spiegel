@@ -8,8 +8,6 @@ realted: false
 
 Welcome and thank you for viewing my personal Git page! This site will provide links to programs and projects I have worked on.
 
-![Image of NA](./assets/images/Jacob_professional.png)
-
 ## About Me
 
 I am seeking to transition from academia to industry. I am self-motivated and a fast learner, and I love working on team-based collaborations.
