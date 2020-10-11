@@ -1,8 +1,8 @@
 ---
-permalink: /About_Me/
-title: "About me"
+permalink: /TeachingExperience/
+title: "Teaching Experience"
 header:
-  image: /assets/images/logo.png
+  image: /assets/images/Jacob_professional.jpg
 ---
 
 Jacob O. Spiegel, Ph.D.

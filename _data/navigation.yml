@@ -9,6 +9,6 @@ main:
   - title: "Publications"
     url: /Publications/
     description: All my publications are here
-  - title: "Random stuff"
-    url: /random/
-    description: An assortment of random stuff
+  - title: "Teaching Experience"
+    url: /TeachingExperience/
+    description: My Teaching Experience
