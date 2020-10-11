@@ -1,12 +1,10 @@
 ---
-title: Jacob O. Spiegel's Webpage
+title: Welcome to my personal page
 layout: single
 share: true
 realted: false 
 ---
 ![Image of NA](./assets/images/logo.png)
-
-## Welcome to my personal page
 
 Welcome and thank you for viewing my personal Git page! This site will provide links to programs and projects I have worked on.
 
