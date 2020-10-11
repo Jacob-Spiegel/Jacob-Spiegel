@@ -5,6 +5,7 @@ header:
   image: /assets/images/Jacob_professional.jpg
 ---
 
+![Image of NA](./assets/images/Jacob_professional.png)
 Jacob O. Spiegel, Ph.D.
 
 I am seeking to transition from academia to industry. I am self-motivated and a fast learner, and I love working on team-based collaborations.
