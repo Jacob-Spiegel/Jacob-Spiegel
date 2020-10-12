@@ -2,7 +2,6 @@
 permalink: /TeachingExperience/
 title: "Teaching"
 ---
-![Image of Jacob_professional](https://github.com/Jacob-Spiegel/Jacob-Spiegel/blob/master/assets/images/Jacob_professional.jpg)
 
 # Teaching Experience
 
