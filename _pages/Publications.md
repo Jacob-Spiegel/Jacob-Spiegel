@@ -12,7 +12,7 @@ title: "Publications"
 ## Cheminformatic Articles
 
 - Ropp, P.J., **Spiegel, J.O.**, et al. Gypsum-DL: an open-source program for preparing small-molecule libraries for structure-based virtual screening. J Cheminform 11, 34 (2019). <http://doi.org/gf48dh> <br />
-    <a id="raw-url" href="https://jacob-spiegel.github.io/assets/Papers/AutoGrow4_2020.pdf">Download PDF</a>
+    <a id="raw-url" href="https://jacob-spiegel.github.io/assets/Papers/Gypsum_DL_2019.pdf">Download PDF</a>
 
 ## Ph.D. Dissertation
 - **Spiegel, J.O.**, (2020) Targeting the Poly (ADP-Ribose) Polymerase-1 Catalytic Pocket Using AutoGrow4, a Genetic Algorithm for *de novo* Design. Doctoral Dissertation, University of Pittsburgh. <http://d-scholarship.pitt.edu/39666/> <br />
