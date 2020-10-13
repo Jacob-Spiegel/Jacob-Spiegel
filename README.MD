@@ -1,6 +1,6 @@
 Welcome to my personal webpage.
 
-To view the page please go to: <https://jacob-spiegel.github.io/Jacob-Spiegel/>
+To view the page please go to: <https://jacob-spiegel.github.io/>
 
 Thank you for viewing.
 ~Jacob O. Spiegel, Ph.D.
