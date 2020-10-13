@@ -19,6 +19,6 @@ title: "Publications"
     <a id="raw-url" href="https://jacob-spiegel.github.io/Jacob-Spiegel/assets/Papers/Jacob_Spiegel_Thesis.pdf">Download PDF</a>
 
 ## Articles in Preparation
-- **Spiegel, J.O.**, O’Donnell, A., Durrant, J.D., (2020). Molecular dynamics of α-arrestin TXNIP. 
-- **Spiegel, J.O.**, Durrant, J.D., (2020). Poly (ADP-ribose) polymerase 1 (PARP1) DNA-Repair Mechanisms, Molecular Binding, and Pharmacology.
-- **Spiegel, J.O.**, Durrant, J.D., Bowman, R., O’Donnell, A. (2020). Putting the brakes on α-arrestin trafficking: α-arrestin regulation by phosphorylation and ubiquitination.
+- **Spiegel, J.O.**, O’Donnell, A., Durrant, J.D., (2020). Molecular Dynamics of α-arrestin TXNIP. 
+- **Spiegel, J.O.**, Durrant, J.D., (2020). Poly (ADP-ribose) Polymerase 1 (PARP1) DNA-Repair Mechanisms, Molecular Binding, and Pharmacology.
+- **Spiegel, J.O.**, Durrant, J.D., Bowman, R., O’Donnell, A. (2020). Putting the Brakes on α-arrestin Trafficking: α-arrestin Regulation by Phosphorylation and Ubiquitination.
