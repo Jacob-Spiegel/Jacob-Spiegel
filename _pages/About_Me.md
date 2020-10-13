@@ -30,7 +30,7 @@ Dr. Hendrix passed away unexpectedly in 2017, and so I transitioned into the lab
 
 ### 2009 to 2013
 
-In 2013, I obtained my Bachelor of Engineering (B.Eng.) from The State University of New York at Stony Brook in Biomedical Engineering with a focus in Cellular and Molecular Biology. From 2011 until 2013 I worked in the research lab of Dr. Balaji Sitharaman.
+In 2013, I obtained my Bachelor of Engineering (B.Eng.) from Stony Brook University (Stony Brook, NY) in Biomedical Engineering with a focus in Cellular and Molecular Biology. From 2011 until 2013 I worked in the research lab of Dr. Balaji Sitharaman.
 
 While in the Sitharaman lab, I worked on several projects involved in generating and utilizing graphene nanoparticles for drug delivery. I gained experience working with cancer cell culture. My main project focused on designing an alternative exfoliation protocol for producing graphene sheets from graphite.
 

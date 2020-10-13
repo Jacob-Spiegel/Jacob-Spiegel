@@ -20,5 +20,5 @@ title: "Publications"
 
 ## Articles in Preparation
 - **Spiegel, J.O.**, O’Donnell, A., Durrant, J.D., (2020). Molecular dynamics of α-arrestin TXNIP. 
-- **Spiegel, J.O.**, Durrant, J.D., (2020). Mechanism and Pharmaceutical Intervention of Poly (ADP-ribose) polymerase 1 (PARP-1). 
+- **Spiegel, J.O.**, Durrant, J.D., (2020). Poly (ADP-ribose) polymerase 1 (PARP1) DNA-Repair Mechanisms, Molecular Binding, and Pharmacology.
 - **Spiegel, J.O.**, Durrant, J.D., Bowman, R., O’Donnell, A. (2020). Putting the brakes on α-arrestin trafficking: α-arrestin regulation by phosphorylation and ubiquitination.
