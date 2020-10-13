@@ -24,7 +24,7 @@ In addition to my research experience, I became interested in pedagogy and scien
 
 I began my Ph.D. studies in 2013 in the Molecular Biophysics and Structural Biology (MBSB) program that is shared between the University of Pittsburgh and Carnegie Mellon University. During my early years in the program, I had the opportunity to rotate in multiple labs studying biochemistry, biology, and biophysics. I ultimately selected the lab of Dr. Roger Hendrix at the University of Pittsburgh.
 
-In the Hendrix lab I studied bacteriophage biology and structural virology. I gained hands-on training in X-ray crystallography, electron microscopy (EM), biochemistry, protein purification, plasmid engineering, and molecular genetics. My main project was studying the assembly of bacteriophage &Lambda; tail, with a focus on the structure and function of the tail chaperone proteins gpG and gpGT. Additionally, I completed a project studying a ribosomal bypass event in the translation of the terminase gene of Streptomyces infecting phage, &Phi;Hau3. 
+In the Hendrix lab I studied bacteriophage biology and structural virology. I gained hands-on training in X-ray crystallography, electron microscopy (EM), biochemistry, protein purification, plasmid engineering, and molecular genetics. My main project was studying the assembly of bacteriophage &lambda; tail, with a focus on the structure and function of the tail chaperone proteins gpG and gpGT. Additionally, I completed a project studying a ribosomal bypass event in the translation of the terminase gene of Streptomyces infecting phage, &phi;Hau3. 
 
 Dr. Hendrix passed away unexpectedly in 2017, and so I transitioned into the lab of Dr. Jacob Durrant at the University of Pittsburgh to complete my studies.
 
