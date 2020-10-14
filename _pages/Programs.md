@@ -19,10 +19,12 @@ toc_label: "Programs"
     &nbsp;&nbsp;&nbsp;&nbsp;Git Repository: <https://git.durrantlab.pitt.edu/jdurrant/gypsum_dl.git>
 
 - **SMILESMerge**: SMILESMerge is a free, open-source program that merges two SMILES strings to produce a novel child compound. SMILESMerge uses the AutoGrow4 crossover algorithm to create *de novo* compounds and was inspired by the program LigMerge. SMILESMerge also provides the option to automate 1/2D SMILES to 3D conversion using Gypsum-DL as well as ADME-PK filters using GlauconiteFilter.<br />
-    &nbsp;&nbsp;&nbsp;&nbsp;Git Repository: <https://github.com/Jacob-Spiegel/SMILESMerge.git>
+    &nbsp;&nbsp;&nbsp;&nbsp;Git Repository: <https://github.com/Jacob-Spiegel/SMILESMerge.git><br />
+    &nbsp;&nbsp;&nbsp;&nbsp;[![DOI](https://zenodo.org/badge/303231133.svg)](https://zenodo.org/badge/latestdoi/303231133)<br />
 
 - **SMILESClickChem**: SMILESClickChem is a free, open-source program that creates novel compounds by performing *in silico* reactions. SMILESClickChem uses the AutoGrow4 mutation algorithm to create *de novo* compounds and was inspired by the program AutoClickChem. SMILESClickChem provides a predefined library of 94 high-yielding chemical reactions, however, its intuitive plugin-style architecture allows for the easy expansion of reaction sets and libraries of reactants. SMILESClickChem also provides the option to automate 1/2D SMILES to 3D conversion using Gypsum-DL as well as ADME-PK filters using GlauconiteFilter.<br />
-    &nbsp;&nbsp;&nbsp;&nbsp;Git Repository: <https://github.com/Jacob-Spiegel/SMILESClickChem.git>
+    &nbsp;&nbsp;&nbsp;&nbsp;Git Repository: <https://github.com/Jacob-Spiegel/SMILESClickChem.git><br />
+    &nbsp;&nbsp;&nbsp;&nbsp;[![DOI](https://zenodo.org/badge/303249038.svg)](https://zenodo.org/badge/latestdoi/303249038)<br />
 
 - **GlauconiteFilter**: GlauconiteFilter is a free, open-source program for parallelized ADME-PK chemical filtration. GlauconiteFilter uses the AutoGrow4 filtration algorithm to SMILES strings. It is a highly parallelized algorithm that has been test on both SMP and MPI high performance computing environments. GlauconiteFilter provides nine predefined chemical filters, however, its intuitive plugin-style architecture allows for the easy expansion of filter options. GlauconiteFilter also provides the option to automate 1/2D SMILES to 3D conversion using Gypsum-DL.<br />
     &nbsp;&nbsp;&nbsp;&nbsp;Git Repository: <https://github.com/Jacob-Spiegel/GlauconiteFilter.git><br />
