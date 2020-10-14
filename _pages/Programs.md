@@ -25,4 +25,5 @@ toc_label: "Programs"
     &nbsp;&nbsp;&nbsp;&nbsp;Git Repository: <https://github.com/Jacob-Spiegel/SMILESClickChem.git>
 
 - **GlauconiteFilter**: GlauconiteFilter is a free, open-source program for parallelized ADME-PK chemical filtration. GlauconiteFilter uses the AutoGrow4 filtration algorithm to SMILES strings. It is a highly parallelized algorithm that has been test on both SMP and MPI high performance computing environments. GlauconiteFilter provides nine predefined chemical filters, however, its intuitive plugin-style architecture allows for the easy expansion of filter options. GlauconiteFilter also provides the option to automate 1/2D SMILES to 3D conversion using Gypsum-DL.<br />
-    &nbsp;&nbsp;&nbsp;&nbsp;Git Repository: <https://github.com/Jacob-Spiegel/GlauconiteFilter.git>
+    &nbsp;&nbsp;&nbsp;&nbsp;Git Repository: <https://github.com/Jacob-Spiegel/GlauconiteFilter.git><br />
+    &nbsp;&nbsp;&nbsp;&nbsp;[![DOI](https://zenodo.org/badge/303535253.svg)](https://zenodo.org/badge/latestdoi/303535253)
