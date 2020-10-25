@@ -7,7 +7,7 @@ title: "Teaching"
 
 ## Overview
 
-I was award a Ph.D. Minor in Teaching in 2020 from the University of Pittsburgh's Department of Biological Sciences. In order to complete the minor I: attended several years of pedagogy training, taught multiple courses, designed and executed two teaching projects, guest lectured, developed a teaching portfolio, designed an undergraduate research course, and received one-on-one training from two teaching mentors. In addition to my in-classroom experience, I also served as a mentor for several undergraduate students in a research settling. 
+I was awarded a Ph.D. Minor in Teaching in 2020 from the University of Pittsburgh's Department of Biological Sciences. In order to complete the minor I: attended several years of pedagogy training, taught multiple courses, designed and executed two teaching projects, guest lectured, developed a teaching portfolio, designed an undergraduate research course, and received one-on-one training from two teaching mentors. In addition to my in-classroom experience, I also served as a mentor for several undergraduate students in a research settling. 
 
 ## Teaching Philosophy
 
