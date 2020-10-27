@@ -48,3 +48,10 @@ I began working with the Autistic community in 2005 by providing respite and res
 ## Personal Interests
 
 In my free-time I am a musician and luthier. My primary instrument is guitar and I enjoy playing jam-band, jazz, bluegrass, and rock music--genres that enable collaborative improvisation. I love building and repairing instruments. There is something satisfying about taking a broken instrument and making it sing once again.
+
+## Volunteer Work
+
+I volunteer with DataKind, an organization which coordinates volunteer data scientists with charities and community projects. Recently, I have been working on an American Red Cross project that seeks to improve fire saftey by predicting factors that correlate with high risk of fires.
+
+Since 2014, I have served as the Manager of Scholastic Development for the International Fraternity for Engineering, Sigma Phi Delta. In this position, I have overseen  the scholastic performance of 23 ungraduate chapters.
+
