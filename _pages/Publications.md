@@ -28,3 +28,4 @@ title: "Publications"
 - **Spiegel, J.O.**, Durrant, J.D., Bowman, R., O’Donnell, A. (2021). Putting the Brakes on α-arrestin Trafficking: α-arrestin Regulation by Phosphorylation and Ubiquitination.
 - Simon, S., **Spiegel, J.O.**, Lowden, C., Kappler, M., (2021) UDM (Unified Data Model) – Compounds, Assays, and More.
 - Mayo, E., **Spiegel, J.O.**, J.O., Durrant, J.D., Ochoa, E., (2021). Evaluation of metalloprotein docking using Plasmodium falciparum PfA-M1 aminopeptidase.
+- **Spiegel, J.O., Lowden**, C., (2021). A novel approach for heterocyclic regioisomer enumeration.
