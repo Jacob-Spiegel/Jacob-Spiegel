@@ -24,5 +24,7 @@ title: "Publications"
     <a id="raw-url" href="https://jacob-spiegel.github.io/assets/Papers/Jacob_Spiegel_Thesis.pdf">Download PDF</a>
 
 ## Articles in Preparation
-- **Spiegel, J.O.**, O’Donnell, A., Durrant, J.D., (2020). Molecular Dynamics of α-arrestin TXNIP.
-- **Spiegel, J.O.**, Durrant, J.D., Bowman, R., O’Donnell, A. (2020). Putting the Brakes on α-arrestin Trafficking: α-arrestin Regulation by Phosphorylation and Ubiquitination.
+- **Spiegel, J.O.**, O’Donnell, A., Durrant, J.D., (2021). Molecular Dynamics of α-arrestin TXNIP.
+- **Spiegel, J.O.**, Durrant, J.D., Bowman, R., O’Donnell, A. (2021). Putting the Brakes on α-arrestin Trafficking: α-arrestin Regulation by Phosphorylation and Ubiquitination.
+- Simon, S., **Spiegel, J.O.**, Lowden, C., Kappler, M., (2021) UDM (Unified Data Model) – Compounds, Assays, and More.
+- Mayo, E., **Spiegel, J.O.**, J.O., Durrant, J.D., Ochoa, E., (2021). Evaluation of metalloprotein docking using Plasmodium falciparum PfA-M1 aminopeptidase.
