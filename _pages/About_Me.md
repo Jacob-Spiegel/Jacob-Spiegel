@@ -12,6 +12,22 @@ With a Ph.D. in molecular biophysics, a Ph.D. minor in education, and a Bachelor
 
 ## Research History and Interests
 
+### 2021 to Current
+
+I joined Exscientia during Fall 2021 as a Cheminformatic Research Engineer. Since joining I have worked on internal software solutions that service hundreds of chemists and drug designers. Working on a large international team has been highly rewarding. I've worked on projects ranging from core cheminformatics toolkits to generative design algorithms.
+
+Exscientia has encouraged me to pursue my interests such as taking Machine Learning/Artificial Intellegence courses, develop an internship program for the US, and lead teams on cheminformatic projects.
+
+Additionally, I serve as the cheminformatic expert on a drug design team.
+
+### 2020 to 2021
+
+Following the completion of my PhD I joined Workflow Informatics as a Research Informatics Consultant and was eventually promoted to VP of Product Development.
+
+While at Workflow Informatics, I worked directly with clients on their cheminformatic and lab informatic needs. This included a wide ranges of needs of cheminformatic workflows, data management, data processing, data visualization intergration, Spotfire/StarDrop/Pipeline Pilot custom solutions... My clients ranged from small start-ups to multi-national pharma conglomerates.
+
+As VP of Product Development, I oversaw our line of software products and customizable solutions, as well of a small team of consultants and developers.
+
 ### 2017 to 2020
 
 Following the passing of my first thesis advisor Dr. Roger Hendrix, I completed my doctoral research in Dr. Jacob Durrant's lab. My research interests while in the Durrant lab included cheminformatics, computer-aided drug design (CADD), homology modeling, molecular dynamics (MD) simulations, genetic algorithms, and open-source software development.
