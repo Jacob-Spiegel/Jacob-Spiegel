@@ -36,7 +36,7 @@ title: "Publications"
         <a id="raw-url" href="https://jacob-spiegel.github.io/assets/Papers/BlendMol.pdf">Download PDF</a>
 
 ## Articles in Preparation
-- **Spiegel, J.O.**, O’Donnell, A., Durrant, J.D., (2022). Molecular Dynamics of α-arrestin TXNIP.
-- **Spiegel, J.O.**, Durrant, J.D., Bowman, R., O’Donnell, A. (2022). Putting the Brakes on α-arrestin Trafficking: α-arrestin Regulation by Phosphorylation and Ubiquitination.
-- Mayo, E., **Spiegel, J.O.**, J.O., Durrant, J.D., Ochoa, E., (2022). Evaluation of metalloprotein docking using Plasmodium falciparum PfA-M1 aminopeptidase.
-- **Spiegel, J.O., Lowden**, C., (2022). A novel approach for heterocyclic regioisomer enumeration.
+- **Spiegel, J.O.**, O’Donnell, A., Durrant, J.D., (2023). Molecular Dynamics of α-arrestin TXNIP.
+- **Spiegel, J.O.**, Durrant, J.D., Bowman, R., O’Donnell, A. (2023). Putting the Brakes on α-arrestin Trafficking: α-arrestin Regulation by Phosphorylation and Ubiquitination.
+- Mayo, E., **Spiegel, J.O.**, J.O., Durrant, J.D., Ochoa, E., (2023). Evaluation of metalloprotein docking using Plasmodium falciparum PfA-M1 aminopeptidase.
+- **Spiegel, J.O., Lowden**, C., (2023). A novel approach for heterocyclic regioisomer enumeration.
